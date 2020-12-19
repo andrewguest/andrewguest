@@ -12,7 +12,11 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark)
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark)
+
+**What I've been working on this week:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br><br>
 <p align="center">
