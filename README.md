@@ -14,7 +14,6 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark)
 
-**What I've been working on this week:**
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
