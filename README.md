@@ -15,20 +15,6 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 367 Contributions in the Year 2020
- > 
-> 📦 28.0 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 4 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -90,10 +76,6 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/andrewguest/andrewguest/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
