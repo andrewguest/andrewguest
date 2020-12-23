@@ -12,7 +12,8 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark)
+![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
