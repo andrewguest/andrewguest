@@ -38,11 +38,11 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            ███████████████░░░░░░░░░░   63.16% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+Python                   12 repos            ███████████████░░░░░░░░░░   60.0% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
 
 ```
 
