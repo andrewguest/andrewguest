@@ -17,7 +17,7 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%2013%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -58,7 +58,7 @@ Dockerfile               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/12/2021
+ Last Updated on 15/12/2021
 <!--END_SECTION:waka-->
 
 <br><br>
