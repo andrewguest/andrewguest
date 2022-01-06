@@ -17,6 +17,8 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2059%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -35,7 +37,8 @@ VS Code                  2 hrs 25 mins       ███████████�
 real_estate_dash         1 hr 4 mins         ███████████░░░░░░░░░░░░░░   44.29% 
 jira-monday-sync         59 mins             ██████████░░░░░░░░░░░░░░░   40.66% 
 FSA_crop_acreage_data    21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+serverless               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
 Mac                      1 hr 20 mins        █████████████░░░░░░░░░░░░   55.28% 
