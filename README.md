@@ -17,22 +17,24 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2026%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-YAML                     26 mins             ██████████░░░░░░░░░░░░░░░   41.99% 
-Python                   20 mins             ████████░░░░░░░░░░░░░░░░░   33.41% 
-CSV                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.6%
+YAML                     26 mins             ██████████░░░░░░░░░░░░░░░   42.13% 
+Python                   20 mins             ████████░░░░░░░░░░░░░░░░░   32.73% 
+CSV                      15 mins             ██████░░░░░░░░░░░░░░░░░░░   25.14%
 
 🔥 Editors: 
 VS Code                  1 hr 2 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          50 mins             ████████████████████░░░░░   81.69% 
-serverless               11 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.31%
+Unknown Project          51 mins             ████████████████████░░░░░   82.42% 
+serverless               10 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.58%
 
 💻 Operating System: 
 Mac                      1 hr 2 mins         █████████████████████████   100.0%
@@ -52,7 +54,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2022 06:23:01 UTC
+ Last Updated on 15/02/2022 12:30:25 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
