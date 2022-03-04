@@ -17,7 +17,7 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-982%20hrs%2049%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -60,7 +60,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2022 18:11:38 UTC
+ Last Updated on 04/03/2022 00:19:14 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
