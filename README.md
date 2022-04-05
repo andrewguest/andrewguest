@@ -16,13 +16,15 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2016%20mins-blue)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Elixir                   12 hrs 50 mins      ██████████████████████░░░   89.77% 
+Elixir                   12 hrs 49 mins      ██████████████████████░░░   89.76% 
 JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
 C                        40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01% 
@@ -32,8 +34,8 @@ Objective-C              0 secs              ░░░░░░░░░░░�
 VS Code                  14 hrs 17 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-dist                     12 hrs 50 mins      ██████████████████████░░░   89.77% 
-Unknown Project          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.19% 
+dist                     12 hrs 49 mins      ██████████████████████░░░   89.76% 
+Unknown Project          1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
 qmk_firmware             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 💻 Operating System: 
@@ -55,7 +57,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2022 06:10:15 UTC
+ Last Updated on 05/04/2022 12:11:53 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
