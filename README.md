@@ -17,7 +17,7 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2023%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,17 +47,17 @@ Windows                  3 hrs 7 mins        ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   12 repos            █████████████░░░░░░░░░░░░   52.17% 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+Python                   13 repos            █████████████░░░░░░░░░░░░   54.17% 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Rust                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+AutoHotkey               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
 
 ```
 
 
 
- Last Updated on 07/07/2022 12:07:58 UTC
+ Last Updated on 07/07/2022 18:06:37 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
