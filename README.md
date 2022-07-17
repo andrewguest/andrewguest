@@ -15,7 +15,7 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2039%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -23,18 +23,16 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 ⌚︎ Time Zone: America/Chicago
 
 💬 Programming Languages: 
-Rust                     4 mins              █████████████░░░░░░░░░░░░   53.84% 
-TOML                     3 mins              ███████████░░░░░░░░░░░░░░   45.83% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Learning-Rust            8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  8 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -51,7 +49,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2022 06:06:18 UTC
+ Last Updated on 17/07/2022 12:06:51 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
