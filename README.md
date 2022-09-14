@@ -17,6 +17,25 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2039%20mins-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -30,7 +49,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2022 06:27:29 UTC
+ Last Updated on 14/09/2022 12:09:13 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
