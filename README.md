@@ -9,7 +9,6 @@ Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png"></code>
-<code><img height="70" src="https://repository-images.githubusercontent.com/842037/cf468f00-88a5-11e9-8d1a-d5fba75d3eb5"></code>
 
 ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrewguest&show_icons=true&theme=vue-dark&count_private=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
