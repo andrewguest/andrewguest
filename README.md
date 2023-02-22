@@ -38,16 +38,16 @@ No Activity Tracked This Week
 
 ```text
 Python                   10 repos            █████████████████░░░░░░░░   71.43 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 
 ```
 
 
 
- Last Updated on 21/02/2023 18:05:32 UTC
+ Last Updated on 22/02/2023 00:18:24 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
