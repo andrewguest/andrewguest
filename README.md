@@ -36,17 +36,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   16 repos            █████████████████░░░░░░░░   66.67 % 
-Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   15 repos            ████████████████░░░░░░░░░   65.22 % 
+Swift                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 09/07/2023 18:05:32 UTC
+ Last Updated on 10/07/2023 00:23:15 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
