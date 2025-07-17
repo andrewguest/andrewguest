@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Andrew, a passionate self-taught Full Stack web developer.
+Hi, I'm Andrew, a passionate developer that primarily uses Python, JavaScript and I'm currently learning Kotlin.
 
 ---
 
