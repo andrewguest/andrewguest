@@ -49,17 +49,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 19/12/2025 18:09:18 UTC
+ Last Updated on 20/12/2025 00:28:28 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
