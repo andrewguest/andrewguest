@@ -26,7 +26,7 @@ Hi, I'm Andrew, a passionate developer that primarily uses Python, JavaScript an
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -59,7 +59,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 18:10:30 UTC
+ Last Updated on 06/01/2026 00:30:36 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
