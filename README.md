@@ -8,7 +8,6 @@ Hi, I'm Andrew, a passionate developer that primarily uses Python, JavaScript an
 
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 ---
@@ -17,7 +16,7 @@ Hi, I'm Andrew, a passionate developer that primarily uses Python, JavaScript an
 
 <code><img height="70" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
-<code><img height="70" src="https://avatars.githubusercontent.com/u/14101776?s=48&v=4"></code>
+<code><img height="70" src="https://raw.githubusercontent.com/solidjs/solid/refs/heads/main/assets/logo.png"></code>
 
 
 ---
