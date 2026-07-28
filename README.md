@@ -25,6 +25,32 @@ Hi, I'm Andrew, a passionate developer that primarily uses Python, JavaScript an
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewguest&theme=vue-dark&layout=compact" alt="andrewguest's github top languages" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2010%20mins-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Chicago
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -38,7 +64,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 08:38:41 UTC
+ Last Updated on 28/07/2026 14:14:35 UTC
 <!--END_SECTION:waka-->
 
 <br><br>
